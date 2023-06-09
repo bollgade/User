@@ -1,0 +1,61 @@
+// Empty
+[
+   {
+      "key": "ctrl+alt+c",
+      "command": "extension.ecsstractor_port_runwithbemandcomments"
+   },
+   {
+      "key": "shift+alt+u i",
+      "command": "typescript.removeUnusedImports"
+   },
+   {
+      "key": "shift+alt+u",
+      "command": "javascript.removeUnusedImports"
+   },
+   {
+      "key": "shift+alt+n",
+      "command": "workbench.action.newWindow"
+   },
+   {
+      "key": "ctrl+shift+n",
+      "command": "-workbench.action.newWindow"
+   },
+   {
+      "key": "ctrl+shift+n",
+      "command": "workbench.files.action.createFolderFromExplorer"
+   },
+   {
+      "key": "ctrl+n",
+      "command": "workbench.files.action.createFileFromExplorer"
+   },
+   {
+      "key": "ctrl+alt+n",
+      "command": "workbench.action.files.newUntitledFile"
+   },
+   {
+      "key": "ctrl+n",
+      "command": "-workbench.action.files.newUntitledFile"
+   },
+   {
+      "key": "ctrl+alt+b",
+      "command": "workbench.action.toggleSidebarVisibility"
+   },
+   {
+      "key": "ctrl+b",
+      "command": "-workbench.action.toggleSidebarVisibility"
+   },
+   {
+      "key": "ctrl+b",
+      "command": "workbench.files.action.focusFilesExplorer"
+   },
+   {
+      "key": "ctrl+k ctrl+0",
+      "command": "workbench.files.action.collapseExplorerFolders",
+      "when": "filesExplorerFocus && !editorTextFocus"
+   },
+   {
+      "key": "alt+t",
+      "command": "FT.createFolderStructure",
+      "args": "__current"
+   }
+]
